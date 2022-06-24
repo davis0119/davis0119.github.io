@@ -1052,6 +1052,7 @@
 }
 .icon-paper:before {
   content: "\e086";
+  color: cornflowerblue;
 }
 .icon-paper-stack:before {
   content: "\e087";
