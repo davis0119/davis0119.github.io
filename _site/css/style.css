@@ -85,9 +85,9 @@ figure {
   float: left;
   width: 300px;
   position: fixed;
-  overflow-y: scroll;
+  overflow-y: hidden;
   z-index: 1001;
-  background: #f2f3f7;
+  background: #ffffff;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
